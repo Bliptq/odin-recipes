@@ -1,0 +1,26 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.lasagna {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+p {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
